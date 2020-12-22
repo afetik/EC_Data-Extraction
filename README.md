@@ -6,6 +6,7 @@ We hope to overlay the data with gps cordinates of the various constituencies. T
 - Which regions have the very elderly registering to vote?
 - Which regions have the youngest set of voters participating in the excercise? 
 - Is there a relationship between the place of registration of younger voter population and the locations of senior secondary schools?
+
 These are just a few of the numerous questions we seek to answer with this data.
 
 Well, lets see how this plays out.........
