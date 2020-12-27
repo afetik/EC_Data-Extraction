@@ -27,7 +27,7 @@ for dir_, _, files in os.walk(root_dir):
 
 
         ### output file
-        output_path = lfp.output_folder+"{}.csv".format(newFileName)
+        output_path = lfp.output_folder+f'{newFileName}.csv'
         tabula.convert_into(filePath, output_path, output_format="csv", pages='all', stream=True)
 
 #End of processing
