@@ -1,8 +1,9 @@
 import tabula
 import os
-import pathlib
+#import pathlib
+
 #This is a local file I created which has my personal folder paths
-import My_Local_Folder_Path as lfp  
+import my_local_folder_path as lfp
 
 #Folder path for input files for extraction
 root_dir = lfp.input_folder
